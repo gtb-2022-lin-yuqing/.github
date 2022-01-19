@@ -11,3 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 Hello everyone,this is yuqing's org.
+
+哈哈哈  英文不好，就这吧。。
+
+然后附上一张近照，混个脸
+
+![BFDC4582E43CD288E6A91D2695B37391](https://user-images.githubusercontent.com/26847426/150095041-e0db40d8-c431-4446-8bdc-9d723381200a.jpg)
